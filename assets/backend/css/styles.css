@@ -2843,4 +2843,38 @@ table.dataTable thead td {
     padding: 3px 6px;
 }
 
+.bootstrap-tagsinput {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    box-shadow: inset 0 1px 1px rgb(0 0 0 / 8%);
+    display: inline-block;
+    padding: 4px 6px;
+    color: #555;
+    vertical-align: middle;
+    border-radius: 4px;
+    max-width: 100%;
+    line-height: 22px;
+
+}
+
+.autocomplete-warp {
+    background-color: #f2f2f2;
+    margin-top: 10px;
+    text-align: left;
+    position: absolute;
+    left: 0;
+    top: auto;
+    width: 100%;
+    z-index: 1;
+    cursor: pointer;
+}
+
+.autocomplete-warp li {
+    padding: 2px 5px;
+    display: inline-block;
+    border: 1px solid #e2e2e2;
+    margin: 3px;
+
+}
+
 /*-------------------- END Offset Sidebar ------------------- */
