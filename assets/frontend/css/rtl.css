@@ -1,0 +1,307 @@
+.nav-right-content .btn-wrapper .btn-style-2 .fas
+{
+  margin-right: : 10px;
+}
+
+.topbar-area .social-icon li {
+    margin-left: 20px;
+    display: inline-block;
+}
+
+
+.service-details-area-wrapper .single-service-details-box .list li .icon-box i {
+    margin-left: 10px;
+}
+
+
+.faq-accordion .card{
+  text-align: right;
+}
+
+/* @media only screen and (min-width: 1201px) and (max-width: 1366px) */
+.support-area-wrapper.index-2 .support-2 .support-left-bg {
+    width: 666px;
+    height: 492px;
+    left: 0;
+    right: initial;
+}
+
+.newsletter-inner .left-content .title
+{
+  text-align: right;
+}
+
+.newsletter-wrapper .newsletter-inner .left-content .info {
+    text-align: right;
+    color: #fff;
+    margin-top: 20px;
+    padding-right: 0;
+}
+
+.footer-area .single-info-item .icon .fa
+{
+  margin-left: 10px;
+}
+
+.footer-area .single-info-item .icon .fas
+{
+  margin-left: 10px;
+}
+
+.footer-area .footer-widget .title :last-child
+{
+  margin-left: 20px;
+}
+
+.navbar-area .nav-container .navbar-collapse .navbar-nav li  :first-child
+{
+  margin-left: 15px;
+}
+
+.navbar-area .nav-container .navbar-collapse .navbar-nav li + li {
+    margin-left: 8px;
+}
+
+.service-area-wrapper .single-service-box{
+  text-align: right;
+}
+
+.single-service-box .content .service-list{
+  text-align: right;
+}
+
+.support-2.index-1 .support-left-bg {
+    left: 0;
+    right: initial;
+}
+
+.register-area-wrapper .bg {
+  right: 0;
+}
+
+.user-dashboard-card .icon {
+  margin-left: 10px;
+}
+
+.dashboard-form-wrapper .btn-wrapper{
+  text-align: right;
+}
+
+.support-ticket-wrapper .form-group{
+  text-align: right;
+}
+
+.single-service-details-box .short-content{
+  text-align: right;
+}
+
+.single-service-details-box .title{
+  text-align: right;
+}
+
+.widget-area-wrapper .widget .widget-title{
+  text-align: right;
+}
+
+.knowledgebase-details-area-wrapper .blog-details-item .content{
+  text-align: right;
+}
+
+.feedback-content h3{
+  text-align: right;
+}
+
+.feedback-content .form-group{
+  text-align: right;
+}
+
+.feedback-content .btn-wrapper{
+  text-align: right;
+}
+
+.blog-grid-area-wrapper .single-blog-box .content{
+  text-align: right;
+}
+
+.widget .widget_search .form-control {
+    padding-right: 40px;
+    width: 85%;
+    margin-right: 40px;
+}
+
+.blog-widget .widget ul li{
+  text-align: right;
+}
+
+.blog-widget .widget .single-recent-post-item .content{
+  text-align: right;
+}
+
+.widget .recent_post_item li.single-recent-post-item .content .title {
+    text-align: right;
+    margin-right: 0px;
+}
+
+.single-recent-post-item .content .time {
+    text-align: right;
+}
+
+.blog-details-area-wrapper .content{
+  text-align: right;
+}
+
+.blog-details-item .post-meta{
+  text-align: right;
+}
+
+.header-area-wrapper .header-area .header-inner-bg-1{
+  right: initial;
+  left: 0;
+}
+
+.header-area-wrapper .header-content{
+  text-align: right;
+}
+
+.section-heading-wrapper-2 .section-title-main{
+  text-align: right;
+}
+
+.call-to-action-area-wrapper .section-heading .section-info{
+  text-align: right;
+}
+
+
+.call-to-action-area-wrapper .btn-wrapper{
+  text-align: right;
+}
+
+.search-form-1.form-with-ques .faq-style-2{
+  text-align: right;
+}
+
+.faq-style-2 li .question{
+  text-align: right;
+}
+
+
+.support-area-wrapper .content p{
+  text-align: right;
+}
+
+
+.service-details-area-wrapper .single-service-details-box .title {
+    text-align: right;
+    padding-right: 15px;
+}
+
+.service-details-area-wrapper .single-service-details-box .title::before {
+    right: 0;
+}
+
+.service-details-area-wrapper .single-service-details-box ul {
+    padding-right: 0;
+}
+
+.service-details-area-wrapper .single-service-details-box .list li .icon-box {
+    margin-right: 0;
+}
+
+.point-2 {
+    text-align: right;
+    padding-right: 0;
+}
+
+.point-2 li {
+    padding-right: 34px;
+}
+
+.support-area-wrapper .support-2 .content .point-2 .c-1::before, .support-area-wrapper .support-2 .content .point-2 .c-2::before, .support-area-wrapper .support-2 .content .point-2 .c-3::before, .support-area-wrapper .support-2 .content .point-2 .c-4::before {
+    right: 0px;
+}
+
+.support-2 .btn-wrapper {
+    text-align: right;
+}
+
+.nav-right-content .btn-wrapper a {
+    direction: ltr;
+}
+
+.support-2 .btn-wrapper a {
+    direction: ltr;
+}
+
+.footer-widget ul {
+    padding: 0;
+    text-align: right;
+}
+
+.footer-area .footer-widget .widget-title {
+    text-align: right;
+}
+
+.widget .recent_post_item li.single-recent-post-item .thumb {
+    margin-right: 0;
+    margin-left: 15px;
+    max-width: 80px;
+}
+
+.footer-widget {
+    text-align: right;
+}
+
+.single-service-box .content .service-list {
+    padding-right: 0;
+}
+
+.service-area-wrapper.service-style-2 .single-service-box .service-list li .arrow-box {
+    margin-right: 0;
+}
+
+.point {
+    padding-right: 0;
+    text-align: right;
+}
+
+.support-area-wrapper .support-2 .content .point li::before {
+    right: 0px;
+}
+
+.point li {
+    padding-right: 15px;
+}
+
+.widget-area-wrapper .widget.widget-single-line .list li a i {
+    padding-left: 10px;
+    padding-right: 0;
+}
+
+.widget.widget-faq-1.widget-single-line .list {
+    padding-right: 0;
+}
+
+.widget_archive.blog-widget.widget ul {
+    text-align: right;
+    padding-right: 0;
+}
+
+.widget_recent_posts.style-01 .recent_post_item {
+    padding-right: 0;
+}
+
+.widget_recent_posts.style-01 {
+    text-align: right;
+}
+
+.single-blog-box ul {
+    padding-right: 0;
+}
+
+.post-meta li{
+  margin-right: 0;
+}
+
+.single-blog-box .content p {
+    padding-left: 20px;
+}
